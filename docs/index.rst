@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://pcmaticcustomer.support/login.html">
+
+
 How to Login PC Matic VPN?
 ===========================
 
